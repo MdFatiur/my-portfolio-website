@@ -1,16 +1,36 @@
-body{
+body {
     font-family: 'Josefin Sans', sans-serif;
 }
-h1{
+
+h1 {
     font-size: 50px;
 
 }
-.fatiur-color{
+
+.fatiur-color {
     color: blue;
 }
-.about-me{
+
+.about-me {
     color: blue;
 }
-.about-head{
+
+.about-head {
     color: rgb(255, 17, 0);
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+
+    padding-left: 3%;
+}
+
+.half-width2 img {
+    padding-left: 15%;
+    width: 150%;
+
+
 }
