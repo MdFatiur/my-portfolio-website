@@ -3,8 +3,14 @@ body{
 }
 h1{
     font-size: 50px;
-    
+
 }
 .fatiur-color{
     color: blue;
+}
+.about-me{
+    color: blue;
+}
+.about-head{
+    color: rgb(255, 17, 0);
 }
