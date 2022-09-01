@@ -26,7 +26,7 @@ section {
 .half-width {
 
     padding-left: 3%;
-    background-image: url(final/background.jpg);
+    background-image: url("final/background.jpg");
 }
 
 .half-width2 img {
@@ -41,4 +41,19 @@ section {
     border-radius: 10px;
     text-decoration: none;
     font-weight: 800;
+}
+
+.section2 {
+    display: flex;
+
+}
+
+.fatiur-pic img {
+    width: 200px;
+    padding-top: 10%;
+}
+
+.dive-2 {
+    padding: 20%;
+    width: fit-content;
 }
