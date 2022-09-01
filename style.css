@@ -35,7 +35,7 @@ section {
 }
 
 .top-banner {
-    background-image: url(final/background.jpg);
+    background-image: url("final/background.jpg");
 }
 
 
