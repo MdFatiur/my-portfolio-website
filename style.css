@@ -34,11 +34,6 @@ section {
     width: 500px;
 }
 
-.top-banner {
-    background-image: url("final/background.jpg");
-}
-
-
 .hire-me {
     color: wheat;
     background-image: linear-gradient(rgba(0, 0, 255, 0.89), black);
