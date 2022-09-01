@@ -26,12 +26,18 @@ section {
 .half-width {
 
     padding-left: 3%;
+    background-image: url(final/background.jpg);
 }
 
 .half-width2 img {
     padding-left: 15%;
-    width: 150%;
+    width: 500px;
 }
+
+.top-banner {
+    background-image: url(final/background.jpg);
+}
+
 
 .hire-me {
     color: wheat;
