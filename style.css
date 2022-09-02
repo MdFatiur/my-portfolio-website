@@ -38,17 +38,23 @@ section {
     font-weight: 800;
 }
 
-.section2 {
-    display: flex;
-
-}
-
 .fatiur-pic img {
     width: 200px;
     padding-top: 10%;
 }
 
 .dive2 img {
-    width: 260px;
+    width: 280px;
     padding-top: 7%;
+}
+
+.section-2 {
+    display: flex;
+    padding: 50%;
+}
+
+.dive-3 {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 3%;
 }
