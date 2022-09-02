@@ -1,6 +1,6 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
-    background-image: url(final/background.jpg);
+    background-image: url(final/background2.jpg);
 }
 
 h1 {
@@ -48,7 +48,6 @@ section {
     padding-top: 10%;
 }
 
-.dive-2 {
-    padding: 20%;
-    width: fit-content;
+.dive2 img {
+    width: 260px;
 }
