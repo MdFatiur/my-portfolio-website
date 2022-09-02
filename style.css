@@ -1,5 +1,6 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
+    background-image: url(final/background.jpg);
 }
 
 h1 {
@@ -21,12 +22,6 @@ h1 {
 
 section {
     display: flex;
-}
-
-.half-width {
-
-    padding-left: 3%;
-    background-image: url("final/background.jpg");
 }
 
 .half-width2 img {
