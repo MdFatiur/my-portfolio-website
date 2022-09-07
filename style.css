@@ -80,6 +80,7 @@ section {
     margin: 3%;
     text-align: center;
     width: 400px;
+    border-radius: 10px;
 }
 
 .list-style {
