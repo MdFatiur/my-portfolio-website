@@ -46,6 +46,7 @@ section {
 .dive2 img {
     width: 280px;
     padding-top: 7%;
+
 }
 
 .section-2 {
@@ -67,4 +68,16 @@ section {
     padding: 10px 30px;
     width: fit-content;
 
+}
+
+.section-4 {
+    display: flex;
+}
+
+.dive-5 {
+    padding: 2%;
+    box-shadow: 10px 15px 25px;
+    margin: 3%;
+    text-align: center;
+    width: 400px;
 }
