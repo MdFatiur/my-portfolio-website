@@ -81,3 +81,7 @@ section {
     text-align: center;
     width: 400px;
 }
+
+.list-style {
+    text-align: left;
+}
