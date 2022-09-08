@@ -86,3 +86,21 @@ section {
 .list-style {
     text-align: left;
 }
+
+#about {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, dodgerblue);
+    border-image-slice: 1;
+}
+
+#enquery {
+    border-left: 7px solid;
+    border-image: linear-gradient(gold, salmon);
+    border-image-slice: 1;
+}
+
+#feedback {
+    border-left: 7px solid;
+    border-image: linear-gradient(forestgreen, lightseagreen);
+    border-image-slice: 1;
+}
